@@ -6,3 +6,6 @@ public static void main(){
 =======
 >>>>>>> d2b286a969eaf65eda52d93910a565555ca28a46
 }
+
+public static void add(){
+}
