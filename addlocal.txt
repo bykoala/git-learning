@@ -1,5 +1,0 @@
-
-edit local
-edit local2
-edit local3
-edit service
